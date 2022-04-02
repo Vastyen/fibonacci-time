@@ -1,9 +1,3 @@
-// Nombre: Bastián Escribano
-// Rut: 20.202.091-7
-// Carrera: Ingeniería de Ejecución en Computación e Informática
-// Asignatura: Análisis de Algoritmos y Estructura de Datos
-// Sección: C-3 
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -36,7 +30,6 @@ int fibIterativo(int num){
 }
 
 int main(int argc, char *argv[]){
-	time_t tiniIt, tfinIt, tiniRe, tfinRe;
 	clock_t ciniIt, cfinIt, ciniRe, cfinRe;
 	int num;
 	int resultRecursivo;
